@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Cheatsheet</title>
+    <link href= 'styles.css' rel= 'stylesheet'>
+  
+  </head>
+  <body>
+    <h1>HTML Tag Cheatsheet</h1>
+    <div class="container">
+    <table>
+      <thead>
+      <tr>
+        <th><h2>Tag</h2></th>
+        <th><h2>Name</h2></th>
+        <th><h2>Description</h2></th>
+      </tr>
+      </thead>
+      <tr>
+        <td class='tag'>&#60;body&#62;</td>
+        <td>body</td>
+        <td>The body element defins the document's body.</td>
+      </tr>
+
+      <tr>
+        <td class='tag'>&#60;p&#62;</td>
+        <td>paragraph</td>
+        <td>Defines a paragraph</td>
+      </tr>
+
+     <tr>
+        <td class='tag'>&#60;h1&#62; to &#60;h6&#62;</td>
+        <td>heading</td>
+        <td>Defines the heading</td>
+      </tr>
+
+     <tr>
+        <td class='tag'>&#60;img&#62;</td>
+        <td>image</td>
+        <td>Defines an image.</td>
+      </tr>
+
+      <tr>
+        <td class='tag'>&#60;br&#62;</td>
+        <td>break</td>
+        <td>Defines a line break.</td>
+      </tr>
+
+      <tr>
+        <td class='tag'>&#60;b&#62;</td>
+        <td>bold</td>
+        <td>Sets the text to bold.</td>
+      </tr>
+
+      <tr>
+        <td class='tag'>&#60;strong&#62;</td>
+        <td>strong</td>
+        <td>Selects the text as improtant text.</td>
+      </tr>
+
+      <tr>
+        <td class='tag'>&#60;i&#62;</td>
+        <td>italic</td>
+        <td>Sets the text to italic text.</td>
+      </tr>
+
+      <tr>
+        <td class='tag'>&#60;em&#62;</td>
+        <td>emphasize</td>
+        <td>Used to define emphasized text.</td>
+      </tr>
+
+    </table>
+    </div>
+  </body>
+</html>
